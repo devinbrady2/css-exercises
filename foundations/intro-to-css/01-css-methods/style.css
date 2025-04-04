@@ -10,3 +10,9 @@ p {
     color: white;
     background-color: green;
 }
+
+button {
+    background-color: orange;
+    font-family: serif;
+    border-color: white;
+}
