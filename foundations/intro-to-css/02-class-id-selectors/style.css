@@ -12,3 +12,9 @@
     color: blue;
     font-size: 50px;
 }
+
+#green-bg {
+    background-color: rgba(0, 255, 0, 50%);
+    font-size: 30px;
+    font-weight: bold;
+}
